@@ -1,3 +1,5 @@
 function counter() {
-// Write your code below. Hint: you can finish it in about 3-5 lines.
-}
+    
+    counter_number=document.getElementById('counter-numbeer');
+    counter_numbeer.innerHTML=parseInt(counter_numbeer,innerHTML)+1;
+    }
